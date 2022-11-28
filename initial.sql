@@ -29,3 +29,13 @@ WHERE user_name = 'sqlDuuudddee';
 
 DELETE FROM instagram_followers WHERE user_name='NoSQLDuDddee';
 
+/*CHALLENGE
+
+1. Get the count of the total instagram followers.
+
+2. Get the count of the instagram followers having “NOSQL” in their display name.
+
+3. Delete all data.
+
+
+*/
